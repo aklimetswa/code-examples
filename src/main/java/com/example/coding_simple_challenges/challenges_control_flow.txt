@@ -1,0 +1,39 @@
+FizzBuzz — Print numbers from 1 to 100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
+
+Number Classification — Given an integer, determine whether it is positive, negative, or zero.
+
+Grade Calculator — Given a score from 0 to 100, print a grade based on predefined score ranges.
+
+Day of the Week — Given a number from 1 to 7, print the corresponding day using a switch statement.
+
+Multiplication Table — Print the multiplication table for a given number from 1 to 10.
+
+Factorial — Calculate the factorial of a non-negative integer using a loop.
+
+Prime Number Check — Determine whether a given integer is a prime number.
+
+Guessing Game Logic — Given a secret number and a guess, print whether the guess is too high, too low, or correct.
+
+Sum Until Zero — Read integers until the user enters zero, then print their sum.
+
+Fibonacci Sequence — Print the first N numbers of the Fibonacci sequence.
+
+Sum of Digits — Calculate the sum of all digits in a positive integer.
+
+Count Digits — Count how many digits an integer contains without converting it to a string.
+
+Reverse an Integer — Reverse the digits of an integer using arithmetic operations.
+
+Greatest Common Divisor — Find the greatest common divisor of two positive integers.
+
+Least Common Multiple — Calculate the least common multiple of two positive integers.
+
+Check a Leap Year — Determine whether a given year is a leap year using the standard calendar rules.
+
+Print a Number Pattern — Given an integer N, print N rows, where each row contains the row number repeated that many times.
+
+Find the First Divisible Number — Given a range and a divisor, find the first number in the range divisible by that divisor.
+
+Calculate Powers — Calculate the value of a base raised to a non-negative integer exponent using a loop instead of Math.pow().
+
+Find the Missing Number — Given an array containing distinct numbers from 1 to N with one number missing, find the missing number.

@@ -1,0 +1,59 @@
+Print Even Numbers — Given an array of integers, print only the even numbers.
+
+Print Odd Numbers — Given an array of integers, print only the odd numbers.
+
+Find the Maximum — Find the largest number in an array without using built-in sorting.
+
+Find the Minimum — Find the smallest number in an array without using built-in sorting.
+
+Calculate the Sum — Calculate the sum of all numbers in an array.
+
+Calculate the Average — Calculate the average of all numbers in an array.
+
+Count Positive and Negative Numbers — Count how many numbers are positive, negative, and zero.
+
+Reverse an Array — Print the elements of an array in reverse order.
+
+Count Occurrences — Given an array and a target number, count how many times the target appears.
+
+Check for Duplicates — Determine whether an array contains any duplicate numbers.
+
+Filter Numbers by Range — Given an array of integers and a minimum and maximum value, print only the numbers within that range.
+
+Find the Second Largest — Find the second-largest distinct number in an array without sorting it.
+
+Move Zeros to the End — Rearrange an array so that all zeros appear at the end while preserving the order of other elements.
+
+Merge Two Arrays — Combine two arrays into a single array.
+
+Compare Two Arrays — Determine whether two arrays contain exactly the same elements in the same order.
+
+Remove Negative Numbers — Create a new array containing only non-negative numbers from the original array.
+
+Count Unique Elements — Count how many distinct values appear in an array.
+
+Find Common Elements — Print the numbers that appear in both of two integer arrays.
+
+Rotate an Array — Shift all elements one position to the right, moving the last element to the first position.
+
+Split Numbers into Two Arrays — Separate an array into one array containing even numbers and another containing odd numbers.
+
+Find the Index — Given an array and a target number, print the index of its first occurrence, or -1 if it is absent.
+
+Swap First and Last Elements — Swap the first and last elements of an array.
+
+Check Ascending Order — Determine whether the elements of an array are sorted in ascending order.
+
+Count Numbers Above Average — Calculate the average of an array and count how many elements are greater than it.
+
+Find Adjacent Equal Elements — Print all pairs of neighboring elements that have the same value.
+
+Calculate Differences — Create a new array where each element is the difference between two consecutive elements of the original array.
+
+Find the Most Frequent Number — Find the number that occurs most often in an array.
+
+Remove a Specific Element — Create a new array without the first occurrence of a given number.
+
+Interleave Two Arrays — Combine two arrays by alternating their elements, starting with the first array.
+
+Find Local Maximums — Print the elements that are greater than both their immediate neighbors, ignoring the first and last elements.

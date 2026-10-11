@@ -1,0 +1,79 @@
+Count Characters — Count the number of characters in a string without using the length() method.
+
+Reverse a String — Create and print a reversed version of a string.
+
+Count Vowels — Count the vowels in a string.
+
+Convert to Uppercase — Convert a string to uppercase without using the built-in toUpperCase() method.
+
+Sort Characters — Sort the characters in a string alphabetically.
+
+Count a Specific Character — Count how many times a given character appears in a string.
+
+Check for Palindrome — Determine whether a string reads the same forward and backward.
+
+Replace Spaces — Replace all spaces in a string with hyphens.
+
+Extract Digits — Print only the digit characters from a string.
+
+Count Words — Count the number of words in a sentence.
+
+Remove Vowels — Create a new string with all vowels removed.
+
+Capitalize the First Letter — Convert the first character of a string to uppercase while leaving the remaining characters unchanged.
+
+Toggle Character Case — Convert lowercase letters to uppercase and uppercase letters to lowercase.
+
+Count Uppercase and Lowercase Letters — Count uppercase letters, lowercase letters, digits, and other characters in a string.
+
+Find the First Non-Repeating Character — Find the first character in a string that occurs exactly once.
+
+Remove Duplicate Characters — Create a new string containing each character only once, preserving its first occurrence.
+
+Check String Equality Ignoring Case — Determine whether two strings are equal regardless of letter case.
+
+Find the Longest Word — Given a sentence, print the longest word.
+
+Reverse Each Word — Reverse the characters of every word in a sentence while preserving word order.
+
+Count Character Frequencies — Given a string and a character, count its occurrences without using built-in frequency utilities.
+
+Count Specific Words — Given a sentence and a target word, count how many times the word appears as a separate word.
+
+Remove a Character — Create a new string with all occurrences of a given character removed.
+
+Check Prefix — Determine whether a string starts with a given prefix without using startsWith().
+
+Check Suffix — Determine whether a string ends with a given suffix without using endsWith().
+
+Find the Shortest Word — Given a sentence, print the shortest word.
+
+Replace Repeated Spaces — Replace consecutive spaces in a string with a single space.
+
+Count Punctuation Marks — Count the punctuation characters in a string.
+
+Find the Most Frequent Character — Find the character that appears most frequently in a string.
+
+Compare String Lengths — Given two strings, print which one is longer, or indicate that they have equal lengths.
+
+Extract a Substring Manually — Given a string, a starting index, and an ending index, create the corresponding substring without using substring().
+
+Check a Perfect Number — Determine whether a positive integer equals the sum of its positive divisors, excluding itself.
+
+Check an Armstrong Number — Determine whether a non-negative integer equals the sum of its digits raised to the power of the number of digits.
+
+Convert Decimal to Binary — Convert a non-negative integer to its binary representation without using built-in conversion utilities.
+
+Convert Binary to Decimal — Convert a string containing binary digits into its decimal integer value.
+
+Calculate the Digital Root — Repeatedly sum the digits of a positive integer until only one digit remains.
+
+Print Prime Numbers in a Range — Print all prime numbers between two given integers.
+
+Find the Power of Two — Determine whether a positive integer is a power of two without using logarithms.
+
+Calculate the Sum of Even Digits — Calculate the sum of the even digits in a positive integer.
+
+Generate a Countdown — Given a positive integer N, print the numbers from N down to 1, followed by "Go!".
+
+Find the First Repeated Digit — Examine an integer's digits from right to left and find the first digit that appears more than once.
